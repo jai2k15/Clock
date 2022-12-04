@@ -24,6 +24,7 @@
     border-radius: 25px;
     top: 48%;
     left: 48.25%;
+    display: none;
 }
 
 #hour, #min, #sec{
